@@ -1,43 +1,36 @@
-# 전성 | Backend Developer
+# 전성
 
-사용자 경험과 서비스 전체 흐름을 이해하고, 문제를 구조적으로 해결하는 백엔드 개발자입니다.
+백엔드 개발자를 준비하고 있습니다.
 
-프론트엔드 구현부터 API 설계·데이터 처리·배포와 QA까지 직접 경험하며, 팀이 같은 기준으로 협업할 수 있도록 요구사항과 기술적 의사결정을 문서화합니다.
+Java와 Spring Boot를 중심으로 개발하고 있고, 팀 프로젝트에서는 프론트엔드와 백엔드를 모두 맡아봤습니다. 기능을 구현한 뒤 실제 화면에서 API가 어떻게 사용되는지 확인하고, 연동 과정에서 생기는 문제를 찾아 고치는 작업을 좋아합니다.
 
-## Selected Projects
+## 프로젝트
 
-### Readle — AI 기반 개발 아티클 학습 서비스
+### Readle
 
-- Team Lead · Frontend · Backend
-- 대시보드 집계, 학습 히스토리와 결과 리포트 API 구현
-- 콘텐츠 입력부터 AI 퀴즈 생성·풀이·결과 확인까지 사용자 흐름 구현
-- [Project contribution](https://github.com/jeonseong0120-source/portfolio-projects/blob/main/projects/readle.md) · [BE](https://github.com/jeonseong0120-source/INT2-Readle-Team02-BE) · [FE](https://github.com/jeonseong0120-source/INT2-Readle-Team02-FE)
+개발 아티클을 AI 퀴즈로 만들어 학습할 수 있는 서비스입니다. 팀장을 맡았고, 프론트엔드 주요 화면과 대시보드·학습 히스토리 백엔드 API를 개발했습니다.
 
-### Dondok — 지분 기반 습관 형성 플랫폼
+[기여 내용](https://github.com/jeonseong0120-source/portfolio-projects/blob/main/projects/readle.md) / [Backend](https://github.com/jeonseong0120-source/INT2-Readle-Team02-BE) / [Frontend](https://github.com/jeonseong0120-source/INT2-Readle-Team02-FE)
 
-- Frontend Lead · Full-stack
-- 크루 생성·탐색·가입·운영 흐름과 자동 상태 전환 배치 구현
-- 인증 상태 관리, PWA, 주요 화면 API 연동 및 UI/UX 개선
-- [Project contribution](https://github.com/jeonseong0120-source/portfolio-projects/blob/main/projects/dondok.md) · [BE](https://github.com/jeonseong0120-source/AIBE5_FinalProject_OIT_BE) · [FE](https://github.com/jeonseong0120-source/AIBE5_FinalProject_OIT_FE)
+### Dondok
 
-### DevNear — AI·지역·재능 기반 매칭 플랫폼
+보증금을 걸고 크루원들과 습관 미션을 진행하는 서비스입니다. 프론트엔드 리드를 맡았으며 크루 생성·탐색·가입·운영 기능을 FE와 BE 양쪽에서 개발했습니다.
 
-- 매칭 E2E, 대시보드, 인증·Redis 캐싱과 DB 조회 성능 개선
-- [Project contribution](https://github.com/jeonseong0120-source/portfolio-projects/blob/main/projects/devnear.md) · [Repository](https://github.com/jeonseong0120-source/AIBE5_Project2_Team10_DevNear-1)
+[기여 내용](https://github.com/jeonseong0120-source/portfolio-projects/blob/main/projects/dondok.md) / [Backend](https://github.com/jeonseong0120-source/AIBE5_FinalProject_OIT_BE) / [Frontend](https://github.com/jeonseong0120-source/AIBE5_FinalProject_OIT_FE)
 
-### Trip Planner — 실시간 협업 여행 계획 서비스
+### DevNear
 
-- 여행 조회·편집·초대·멤버 권한과 마이페이지 흐름 구현
-- [Project contribution](https://github.com/jeonseong0120-source/portfolio-projects/blob/main/projects/trip-planner.md) · [Repository](https://github.com/jeonseong0120-source/AIBE5_Project1_Team4)
+지역과 기술을 기준으로 프로젝트와 프리랜서를 연결하는 서비스입니다. 대시보드와 매칭 흐름을 개발했고, Redis 캐싱과 DB 조회 성능 개선 작업을 했습니다.
 
-## Skills
+[기여 내용](https://github.com/jeonseong0120-source/portfolio-projects/blob/main/projects/devnear.md) / [Repository](https://github.com/jeonseong0120-source/AIBE5_Project2_Team10_DevNear-1)
 
-- **Backend:** Java, Spring Boot, JPA, QueryDSL, REST API
-- **Database:** MySQL, PostgreSQL, Redis
-- **Frontend:** React, Next.js, TypeScript, TanStack Query
-- **Infra & Collaboration:** AWS, Docker, Podman, GitHub Actions, Git, Notion
+### Trip Planner
 
-## More
+여행 일정을 함께 편집하는 서비스입니다. 여행 조회·마이페이지·초대 링크·멤버 권한 기능을 구현했습니다.
 
-- [프로젝트별 상세 기여 기록](https://github.com/jeonseong0120-source/portfolio-projects)
+[기여 내용](https://github.com/jeonseong0120-source/portfolio-projects/blob/main/projects/trip-planner.md) / [Repository](https://github.com/jeonseong0120-source/AIBE5_Project1_Team4)
+
+## 사용 기술
+
+Java, Spring Boot, JPA, QueryDSL, MySQL, PostgreSQL, Redis, React, TypeScript, AWS, Docker, GitHub Actions
 
